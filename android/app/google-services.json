@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977218090614",
+    "firebase_url": "https://tsdsupport-dd2ab.firebaseio.com",
+    "project_id": "tsdsupport-dd2ab",
+    "storage_bucket": "tsdsupport-dd2ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977218090614:android:f9958a810c16b0af799157",
+        "android_client_info": {
+          "package_name": "com.tsd_support"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977218090614-k7mmb3ftm1oplap5vkhj351vh0l3k3ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tsd_support",
+            "certificate_hash": "74e35551117fa0eb5b788658a6fb5091191a8f56"
+          }
+        },
+        {
+          "client_id": "977218090614-ske9vmeudi886qsptpka8hrq1ageh8vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPuDWTQFDev8jGJdOrUIpyfSr68VKJowk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977218090614-ske9vmeudi886qsptpka8hrq1ageh8vu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977218090614-31bu6d6h5b3e7tbsaqv82dpqctr7066v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TSDSupport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
